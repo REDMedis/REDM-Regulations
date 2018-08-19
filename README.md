@@ -7,4 +7,5 @@
 The repository states the organization of the Digital Scalpel Studio (DSS) and some normalization rules.
 
 ## Catalogue
-- [DSS Organize Form-cmn](https://github.com/DSSDEVELOP/DSS-Regulations/blob/master/DSS%20Organize%20Form-cmn.md)
+- [DSS-Organize-Form-cmn](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+- [DSS-Format-Manual-cmn](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Format-Manual-cmn.md)
