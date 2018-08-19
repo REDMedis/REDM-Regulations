@@ -34,9 +34,9 @@ DSS 的所有文档都使用 **Markdown** 撰写，以 `.md` 格式保存
 - 用一个空格代替多个空格
 - 除非特别情况，一般请使用半角空格
 - 中英文之间需要添加空格
-> <%= octicon "thumbsdown" %> 使用Workflow来自定义一个工作流  
-> <%= octicon "thumbsdown" %> 使用 Workflow来制定一个工作流。  
-> ✔️ 使用 Workflow 来自定义一个工作流。  
+> ![5b79604ddfc01.png](https://i.loli.net/2018/08/19/5b79604ddfc01.png) 使用Workflow来自定义一个工作流  
+> ![5b79604ddfc01.png](https://i.loli.net/2018/08/19/5b79604ddfc01.png) 使用 Workflow来制定一个工作流。  
+> ![5b79605a77424.png](https://i.loli.net/2018/08/19/5b79605a77424.png) 使用 Workflow 来自定义一个工作流。  
 - 中文与数字之间需要添加空格
 > ❌ 这份文件已经被修改了100次。  
 > ❌ 这份文件已经被修改了100 次。  
