@@ -71,7 +71,7 @@ DSS 的所有文档都使用 **Markdown** 撰写
 - 用一个空格代替多个空格
 - 除非特别情况，一般请使用半角空格
 - 中英文之间需要添加空格
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用Workflow来自定义一个工作流  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用Workflow来自定义一个工作流。  
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用 Workflow来制定一个工作流。  
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 使用 Workflow 来自定义一个工作流。  
 - 中文与数字之间需要添加空格
