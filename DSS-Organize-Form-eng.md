@@ -171,12 +171,7 @@ He/She should be responsible for:
 
 
 - - - -
-
-Orginated from [DSS-Organize-Form-cmn][1]
-Translated by Eric Tam and Simon Leung
-Latest edit: 20 Aug, 2018
-
-The regulations come into force as of today.
-
-
-  [1]: https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md
+- Orginated from [DSS-Organize-Form-cmn](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+- Translated by Eric Tam, Simon Leung
+- Latest edit: 20 Aug, 2018
+- The regulations come into force as of today.
