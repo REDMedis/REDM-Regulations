@@ -29,7 +29,7 @@ Department subsitition and member adjustment will be excuted by the CORE after c
 
 #### 2.1.1 Department Establishment
 
-Base on the work or member advise at present stage, the studio may consider establishing a new Department.
+Base on the work or member advice at present stage, the studio may consider establishing a new Department.
 
 Any member of the studio can propose to establish a new department. In the process of which, proposer need to hand in 《Establish Application》 to the CORE.
 
@@ -64,11 +64,11 @@ When one or more following conditions arise, the studio may consider adjust/canc
 
 
 
-### 2.2 Sub - Department
+### 2.2 Sub-Department
 
 #### 2.2.1 Sub-Department Establishment
 
-Base on the work or member advise at present stage, the studio may consider establishing a new sub-Department.
+Base on the work or member advice at present stage, the studio may consider establishing a new sub-Department.
 
 Any member of the department have the right to propose establishing a new sub-department, affiliating to this department.
 
@@ -111,93 +111,72 @@ When one or more following conditions arise, the studio may consider adjust/canc
 
 
 
-### 2.3 临时小组
+### 2.3 Temporary Group
 
-#### 2.3.1 临时小组增设
+#### 2.3.1 Temporary Group Establishment
 
-根据部门内某一具体项目的工作情况，部门可考虑增设临时小组。
+Base on the work or member advice at present stage, the department may consider establishing a new temporary group.It can be established with the permission from the head of the department, no application needed. Will be cancelled after finishing its assignments, resource put in will also be taken back.
 
-在经过部门负责人同意后，即可立即设立临时小组，无需提交申请。
+## 3. Responsibility Relationship
+### 3.1 The Head
 
-在临时小组完成其功能后应当立即被撤销，被分配的资源也应该立刻被收回。
-
-
-
-
-## 3. 责任关系
-
-### 3.1 负责人
-
-除去核心组之外的层级，每个部门或子部门，需指派一名最高负责人。
+A top head should be arranged in every department and sub-deoartment except for the CORE
 
 
 
+#### 3.1.1 The Head of departments
 
-#### 3.1.1 部门负责人
+He/She should meet the followings:
 
-部门负责人必须符合以下要求：
+- Be a member of all sub-departments affiliated.
 
-- 是其所有直属子部门的成员
-
-- 熟悉其所有直属子部门的工作主题
-
+- Have a good command of the work theme of all sub-departments.
 
 
 
-部门负责人具备以下职责：
+He/She should be responsible for:
 
-- 承担部门的日常管理工作
+- The regular management of the department
 
-- 负责子部门的工作传达、任务分配
+- The transmition and distribution of assignments of sub-departments
 
-- 监督子部门的工作质量与进度
+- The process and quality of work of sub-departments
 
-- 参与有关部门或其直属子部门的决策
+- Decisions of sub-departments and departments related
 
-- 参加工作室例会
+- Meeting attendence
 
 
 
 
-#### 3.1.2 子部门负责人
+#### 3.1.2 The Head of sub-departments
 
-子部门负责人必须符合以下要求：
+He/She should meet the followings:
 
-- 是其父级部门的成员
+- Be a member of parent-department
 
-- 熟悉该子部门的工作主题
+- Have a good commamd of the work theme of the sub-department
 
+He/She should be responsible for:
 
+- The regular management of the sub-department
 
+- The transmittion and distribution of assignment
 
-子部门负责人具备以下职责：
+- The process and quality of work of all the members
 
-- 承担子部门的日常管理工作
-
-- 负责成员的工作传达、任务分配
-
-- 监督成员的工作质量与进度
-
-- 参与有关其子部门的决策
+- Meeting attendence
 
 
 
 
 - - - -
 
+Orginated from [DSS-Organize-Form-cmn][1]
+Translated by Eric Tam and Simon Leung
+Latest edit: 20 Aug, 2018
+
+The regulations come into force as of today.
 
 
-
-执笔：王雨阳、谭晓杨
-
-格式审核：
-
-内容审核：
-
-最后修撰于：2018年8月16日
-
-
-
-
-即日起生效
-
+  [1]: https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md
