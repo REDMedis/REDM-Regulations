@@ -40,6 +40,7 @@ DSS 的所有文档都使用 **Markdown** 撰写
 ### 标题
 - 尽量使用名词
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 关于人文素养
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 人文素养
 
 ### 链接
@@ -50,6 +51,7 @@ DSS 的所有文档都使用 **Markdown** 撰写
 - 不要为了突显特定文字或想法而创建链接，链接应该用来帮助阐明链接文字，而非强调文字。
 - 在文章内存在的词语或短语上创建链接，不要说“请点击这里”。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看DSS组织形式，[请点击这里](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[DSS组织形式](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
 
 ### 语言表述
@@ -71,18 +73,26 @@ DSS 的所有文档都使用 **Markdown** 撰写
 - 用一个空格代替多个空格
 - 除非特别情况，一般请使用半角空格
 - 中英文之间需要添加空格
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用Workflow来自定义一个工作流。  
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用 Workflow来制定一个工作流。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用Workflow来自定义一个工作流。
+
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用 Workflow来制定一个工作流。
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 使用 Workflow 来自定义一个工作流。  
 - 中文与数字之间需要添加空格
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这份文件已经被修改了100次。  
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这份文件已经被修改了100 次。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这份文件已经被修改了100次。 
+
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这份文件已经被修改了100 次。 
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 这份文件已经被修改了 100 次。  
 - 反应具体数量时数字与计量单位之间需要添加空格（百分号与度、分、秒除外）。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这张图片的大小为 10MB。  
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 明天的最高气温达到了 38°C。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这张图片的大小为 10MB。 
+
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 明天的最高气温达到了 38°C。
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 倒入 200 mL 的水。  
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 公司有 30% 的员工是本地人。  
+
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 公司有 30% 的员工是本地人。 
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 35° 的大斜坡对于这辆车来说可能过于吃力。  
 - 中文与 @ # ¥ % ^ & * ( ) - + 等特殊符号之间需要添加空格。
 - 产品名词等特殊定义的词语按照定义书写。
@@ -92,12 +102,16 @@ DSS 的所有文档都使用 **Markdown** 撰写
 ### 标点符号
 规范地使用标点符号有助于标明语句逻辑和语气。需要注意以下规则：
 - 不重复使用标点符号
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 喵喵喵？？？？  
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 他竟然输了？？！！  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 喵喵喵？？？？
+
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 他竟然输了？？！！
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 喵喵喵？  
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 他竟然输了 ？！  
 - 使用全角中文标点
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 很高兴认识你!你叫什么名字?  
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 很高兴认识你！你叫什么名字？
 - 遇到整句英文时使用半角标点符号。
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 正如那句老话，“Where there is a will, there is a way”。
@@ -110,19 +124,25 @@ DSS 的所有文档都使用 **Markdown** 撰写
 - 使用阿拉伯数字或简体中文数字,但不在一句中混合使用。
 - 使用中文的连接号，即英文全角的“-”，以表示延续范围，并非破折号“—”。浪号“~”和“～”。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 在 10～15 米出处做标记。
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 于 2015年-2017 年间有效。
 - 公元纪年以年月日表示时，不加上不必要的零。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 2018 年 01 月 01 日
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 2018 年 1 月 1 日 
 - 公元纪年以全阿拉伯数字和符号表示时，年月日之间以半字线“-”隔开；当月和日是个位数时，十位上加“0”。（该写法不可出现在正文中，可以于结尾用于注明著作日期）
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 1998-8-1
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 2018-08-01
 - 书写时、分、秒等时刻时，应该使用阿拉伯数字,使用24小时制。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 下午七点五十分
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 19 点 50 分
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 19:50
 - 使用三位撇节法对多位数字进行分节（半角）
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 1500000.00 元
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 1,500,000.00 元
 
 ### 缩写
@@ -131,10 +151,13 @@ DSS 的所有文档都使用 **Markdown** 撰写
 - 外文缩写应当采用拉丁字母表示，同时也应尽量避免英文字母以外的拉丁字母。
 - 按照习惯正确大小写。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> github
+
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> Github
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> GitHub
 - 不使用不地道的缩写。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 熟悉运用 Js、H5 的前端工作者。
+
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 熟悉运用 JavaScript、HTML5 的前段工作者。
 - 在文档第一次使用一个缩写时应当用某种方式告知读者其含义，极广泛使用的缩写和型号除外。
 
