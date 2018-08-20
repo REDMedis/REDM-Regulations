@@ -161,7 +161,7 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 ## 相关信息
-执笔：王雨阳、梁正弘
-审核：梁正弘
-最后修改于：2018 年 8 月 20 日
-即日生效
+- 执笔：王雨阳、梁正弘
+- 审核：梁正弘
+- 最后修改于：2018 年 8 月 20 日
+- 即日生效
