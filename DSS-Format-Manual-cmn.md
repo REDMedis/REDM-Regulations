@@ -1,30 +1,37 @@
 # DSS-写作规范
+
 ## 初衷
 每个人都有着不同的书写和排版习惯，为使所有文档的风格一致，增强文可读性，我们对于文档写作制定了一些规范化要求。这些规则并非都是绝对的，也不暗示这些规则比其他方式更好，他们都将在一定的弹性下被使用。
 
 > 规章制度，本质上，并非永恒不变的定律。它们仅针对一般案例，必须在某程度的弹性下应用。  
-> ——《芝加哥格式手册》（The Chicago Manual of Style，CMS）  
+> ——《芝加哥格式手册》（The Chicago Manual of Style，CMS）
+  
 ## 一般
 ### Markdown
-DSS 的所有文档都使用 **Markdown** 撰写，以 `.md` 格式保存
+DSS 的所有文档都使用 **Markdown** 撰写
+
 ### i18n
-开源与分享是我们的初衷，为便利更多人的阅读、理解，我们所有的文档都将实现 **[i18n](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96)**（Internationalization）。我们将撰写简体中文的文档并提供对应的英文翻译版本，同时注意以下规则：
+开源与分享是我们的初衷，为便利更多人的阅读、理解，我们所有的文档都将实现  [i18n](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96)（Internationalization）。我们将撰写简体中文的文档并提供对应的英文翻译版本，同时注意以下规则：
 - 统一使用[现代标准汉语（简体字写法）](https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E6%A8%99%E6%BA%96%E6%BC%A2%E8%AA%9E)([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) `cmn-Hans`) 以确保准确性。
-- 统一使用[英语](https://zh.wikipedia.org/wiki/%E8%8B%B1%E8%AF%AD) ([ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) `eng`)翻译。
+- 统一使用[英语](https://zh.wikipedia.org/wiki/%E8%8B%B1%E8%AF%AD) （[ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) `eng`）翻译。
 - 英语翻译应与现代标准汉语（简体字写法）版本保持一致（表意一致）。
 - 尚未完成或通过审核的文档，不需要进行翻译。
+
 ### 命名格式
-**命名格式**是对文档命名的简单规范。一篇文档的命名应该包括**“所属”**、**“标题”**、**“语种代号”**三个组成部分，用短横杠 `-` 分隔，即“所属-标题-语种代号”。
+**命名格式**是对文档命名的简单规范。一篇文档的命名应该包括“所属”、“标题”、“语种代号”三个组成部分，用短横杠 `-` 分隔，即“所属-标题-语种代号”。
 
 注意以下规则：
 - “所属”指的是文档所属的最具体的部门或项目。
 - “标题”若由多个词语组成，用短横杠 `-` 分隔。
-- “语种代号”使用[ISO 639-3](https://zh.wikipedia.org/wiki/ISO_639-3)，简体中文文档使用 `cmn-Hans`，英文文档使用 `eng`。
+- “语种代号”使用 [ISO 639-3](https://zh.wikipedia.org/wiki/ISO_639-3) 标准，简体中文文档使用 `cmn-Hans`，英文文档使用 `eng`。
+- 文档统一以 `.md` 格式保存。
 
 例如本文档属于 DSS 的简体中文格式手册，命名为：
-> DSS-Format-Manual-cmn  
+> DSS-Format-Manual-cmn.md
+
 属于项目“Project”的英文策划书，命名为：
-> Project-Proposal-eng  
+> Project-Proposal-eng.md
+
 ## 空格
 > 漢學家稱這個空白字元為「盤古之白」，因為它劈開了全形字和半形字之間的混沌。另有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。  
 > ——[GitHub - vinta/pangu.js: 為什麼你們就是不能加個空格呢？](https://github.com/vinta/pangu.js)  
@@ -34,32 +41,32 @@ DSS 的所有文档都使用 **Markdown** 撰写，以 `.md` 格式保存
 - 用一个空格代替多个空格
 - 除非特别情况，一般请使用半角空格
 - 中英文之间需要添加空格
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="16px" height="16px"> 使用Workflow来自定义一个工作流  
-
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="16px" height="16px"> 使用 Workflow来制定一个工作流。  
-
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="16px" height="16px"> 使用 Workflow 来自定义一个工作流。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用Workflow来自定义一个工作流  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 使用 Workflow来制定一个工作流。  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 使用 Workflow 来自定义一个工作流。  
 - 中文与数字之间需要添加空格
-> ❌ 这份文件已经被修改了100次。  
-> ❌ 这份文件已经被修改了100 次。  
-> ✔️ 这份文件已经被修改了 100 次。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这份文件已经被修改了100次。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这份文件已经被修改了100 次。  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 这份文件已经被修改了 100 次。  
 - 反应具体数量时数字与计量单位之间需要添加空格（百分号与度、分、秒除外）。
-> ❌ 这张图片的大小为 10MB。  
-> ❌ 明天的最高气温达到了 38°C。  
-> ✔️ 倒入 200 mL 的水。  
-> ✔️ 公司有 30% 的员工是本地人。  
-> ✔️ 35° 的大斜坡对于这辆车来说可能过于吃力。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 这张图片的大小为 10MB。  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 明天的最高气温达到了 38°C。  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 倒入 200 mL 的水。  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 公司有 30% 的员工是本地人。  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 35° 的大斜坡对于这辆车来说可能过于吃力。  
 - 中文与 @ # ¥ % ^ & * ( ) - + 等特殊符号之间需要添加空格。
 - 产品名词等特殊定义的词语按照定义书写。
-> ✔️ 豆瓣FM是一款由豆瓣开发的个性化的音乐收听工具。  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 豆瓣FM是一款由豆瓣开发的个性化的音乐收听工具。  
 - 当半角符号 / 表示“或者”之意时，与前后的字符之间均不加空格。
+
 ## 标点符号
 规范地使用标点符号有助于标明语句逻辑和语气。需要注意以下规则：
 - 不重复使用标点符号
-> ❌ 喵喵喵？？？？  
-> ❌ 他竟然输了？？！！  
-> ✔️ 喵喵喵？  
-> ✔️ 他竟然输了 ？！  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 喵喵喵？？？？  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 他竟然输了？？！！  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 喵喵喵？  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 他竟然输了 ？！  
 - 使用全角中文标点
-> ❌很高兴认识你!你叫什么名字?  
-> ✔️很高兴认识你！你叫什么名字？  
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 很高兴认识你!你叫什么名字?  
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 很高兴认识你！你叫什么名字？  
+- 
