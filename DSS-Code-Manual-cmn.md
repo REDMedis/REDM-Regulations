@@ -29,6 +29,7 @@
 * 在优先度高的地方
 * 新行的开始应该与上一行同一级别的地方对齐
 * 如果满足以上的原则的新行的开始比较靠右，应该用 8 个空格进行缩进。
+
 下面是一个例子：
 ```swift
 monthLabel = DiaryLabel(
@@ -48,6 +49,7 @@ monthLabel = DiaryLabel(
 **下面的情况应用两行空行**
 * 程序文件中两部分之间
 * 在两个功能不同的代码块（如方法与接口）之间
+
 **下面是一个例子：**
 ```swift
 func sizeHeightWithText (){
@@ -65,6 +67,7 @@ class DiaryLabel: UILabel {
 * 在变量定义与第一个语句之间
 * 在一个块注释或单行注释之间
 * 在同一代码块中不同的逻辑操作部分之间
+
 **下面是一个例子**
 ```swift
 var diary: Diary!
