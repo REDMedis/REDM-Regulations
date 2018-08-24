@@ -1,225 +1,97 @@
-# DSS-代码规范
+# DSS Organize Form-cmn
 
-## 初衷
+## 1. 组织形式
+### 1.1 概况
+DSS (Digital Scalpel Studio) 是一个强调规范与创意共同驱动的工作室，采用关系树形组织形式。工作室以负责重要事务处理和决策的核心组 (CORE) 为根，发散出各个部门 (Department)，部门下可设立子部门 (sub-Department)，或者临时小组(Temporary Group)。
+### 1.2 内部形态
+* 核心组：工作室的管理者组和决策组，负责工作室的内部事务处理、部门管理、成员组织调动、项目审核监督、资源掌控等。
+* 部门：为针对一类特定工作而设立，在工作室中稳定存在并能在其领域中做出持续贡献的团队，设有一名部门负责人，部门负责人必须存在于所有直属子部门中。
+* 子部门：将部门工作主题细分后针对一项具体工作而设立，在工作室中稳定存在并能在其领域中做出持续贡献的团队，设有一名子部门负责人。
+* 临时小组：为解决临时需求而设立的团队，具有灵活性，仅临时存在于某一项目的特定工作阶段内，临时小组由部门负责人管理，无需另指派负责人。
+### 1.3 限制
+为避免组织形式过分冗余，除上述 **三层关系** 外，不应该存在更多小型组织形式，若有需求可自行设计名义小组，但不可产生进一步的责任分配，不可指派更具体的负责人。
 
-写出简洁规范的代码对于开发者而言非常重要，它体现了开发者自己的专业性和技术水平，能够赢得别人的称赞，为秉持 DSS 在项目开发上注重交流，开源的核心精神，同样为了更好的维护代码库的稳定与和谐，对团队开发中的代码书写作出以下规范。本文档并非指出其他方式是错误的，也不暗示这些规则比其他方式更好。
-## 文件
-### 文件命名
-文件名应为名词或名词的混合体，且各个名词的首字母应大写，相似功能的文件名应类似，在存储时也应同属于一个文件夹内。
+## 2. 组织调整
+工作室内一切部门调整、人员变动的相关事宜皆需经由核心组审议通过后执行。
+### 2.1 部门
+#### 2.1.1 部门增设
+根据现阶段工作情况或成员提议，工作室可考虑增设部门。
+工作室内任一成员皆可提议增设部门。提议时，需要申请人需要向核心组提交《增设申请书》。
+根据内部形态中的定义，在确定新部门的工作主题时需做到：
 
-### 文件组织内容
-为避免文件冗杂，一个文件一般情况下不应容纳多于 2000 行代码。
-每个文件起始都应有较为详尽的文件头注释来说明该文件的主要功能，创建及修改日期，参与书写的人员名单等。
+* 主题明确不含糊
+* 主题独立（不重叠、不被涵盖）
+* 主题满足长期需求
 
-## 表达式和基本语句
-### 一般表达式
-- 如果代码行中的运算符比较多，用括号确定表达式的操作顺序，避免使用默认的优先级。
-- 避免组合表达式
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `Total =（aSum = bSum + cSum）+ i;`
-> 
-### if 语句
-- 不可将布尔变量直接与 TRUE、FALSE、1 和 0 进行比较
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `if(seleted == TRUE)`
+#### 2.1.2 部门调整/取消
+当以下一或数种情况出现时，工作室可考虑调整/取消部门：
 
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `if(seleted == 0)`
+* 部门无工作成果六个月以上
+* 部门负责人变动
+* 直属子部门变动
+* 工作主题丧失价值
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> `if(seleted)`
+### 2.2 子部门
+#### 2.2.1 子部门增设
+根据现阶段工作情况或成员提议，工作室可考虑增设部门。
+工作室内任一成员皆可提议为其所在的部门增设子部门。
+提议时，需要申请人向核心组提交《增设申请书》。
+根据内部形态中的定义，在确定新子部门的工作主题时需做到：
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> `if(!seleted)`
+* 主题确实附属于父部门
+* 主题明确不含糊
+* 主题不过于具体或过于海纳
+* 主题相对于兄弟部门独立
+* 主题满足长期需求
 
-### 循环语句
-- 嵌套循环时，尽量将最长的循环放在最内层，最短的循环放在最外层以减少CPU跨切循环层的次数。
-- 循环控制变量的取值采用“半开半闭”写法。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `for(int i = 0; i <= n -1; i-- )`
+#### 2.2.2 子部门调整/取消
+子部门负责人或部门负责人可提议调整/取消其直属子部门。
+当以下一或数种情况出现时，工作室可考虑调整/取消部门。
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> `for(int i = 0; i < n; i-- )`
+- 子部门无工作成果六个月以上
+- 子部门负责人变动
+- 子部门维持无成员三个月以上
+- 工作主题失去价值
+- 父级部门调整/取消
 
-## 排版
-### 缩进
-为保证在所有编辑器下的效果一致，我们统一**使用空格**来控制缩进，而非 Tab 字符。行首使用 4 个空格，若使用 Tab 缩进，需要设置一个 Tab 为 4 个空格。
+### 2.3 临时小组
+#### 2.3.1 临时小组增设
+根据部门内某一具体项目的工作情况，部门可考虑增设临时小组。
+在经过部门负责人同意后，即可立即设立临时小组，无需提交申请。
+在临时小组完成其功能后应当立即被撤销，被分配的资源也应该立刻被收回。
 
-#### 行宽
+## 3. 责任关系
+### 3.1 负责人
+除去核心组之外的层级，每个部门或子部门，需指派一名最高负责人。
 
-每行避免超过 80 个字符，避免由于终端和编辑工具产生的误处理，也保证了代码的观感。
- 
-#### 换行
+#### 3.1.1 部门负责人
+部门负责人必须符合以下要求：
+- 是其所有直属子部门的成员
+- 熟悉其所有直属子部门的工作主题
 
-当一个表达语句不适合书写在一行的时候（如参数过长），应该用以下的原则进行分行：
-* 在逗号之后
-* 在一个操作符之前
-* 在优先度高的地方
-* 新行的开始应该与上一行同一级别的地方对齐
-* 如果满足以上的原则的新行的开始比较靠右，应该用 8 个空格进行缩进。
+部门负责人具备以下职责：
+- 承担部门的日常管理工作
+- 负责子部门的工作传达、任务分配
+- 监督子部门的工作质量与进度
+- 参与有关部门或其直属子部门的决策
+- 参加工作室例会
 
-下面是一个例子：
-```swift
-monthLabel = DiaryLabel(
-                        fontname: "Wyue-GutiFangsong-NC",
-                        labelText: "三月",
-                        fontSize: 16.0,
-                        lineHeight: 5.0,
-                        color: DiaryRed)
-```
+#### 3.1.2 子部门负责人
+子部门负责人必须符合以下要求：
+- 是其父级部门的成员
+- 熟悉该子部门的工作主题
 
-### 大括号
-缩进风格的主要区别在于复合语句的大括号的位置，这通常是为涵盖一个控制声明（if、while、for...），大括号摆放位置的风格种类有许多，这里不作硬性要求，但在非空代码块中推荐使用 K&R 风格。
-下面是 K&R 风格的一个例子：
-```C
-while (x == y) {
-    something();
-    somethingelse();
-}
-```
-### 空白
-#### 空行
+子部门负责人具备以下职责：
+- 承担子部门的日常管理工作
+- 负责成员的工作传达、任务分配
+- 监督成员的工作质量与进度
+- 参与有关其子部门的决策
 
-使用空行来将一段逻辑相关的代码与其他代码分开从而提高代码的可读性。
+以上相关规定在实际操作时可能会更具灵活性。
+- - - -
 
-下面的情况应用两行空行
-* 程序文件中两部分之间
-* 在两个功能不同的代码块（如方法与接口）之间
+- 执笔：王雨阳
+- 审核：谭晓杨、梁正弘
+- 最后修撰于：2018年8月16日
 
-下面是一个例子：
-```swift
-func sizeHeightWithText (){
-  
-}
-
-
-class DiaryLabel: UILabel {
-  
-}
-```
-
-下面的情况应用一行空行
-* 两功能相似的代码块（如两方法）之间
-* 在变量定义与第一个语句之间
-* 在一个块注释或单行注释之间
-* 在同一代码块中不同的逻辑操作部分之间
-
-下面是一个例子：
-```swift
-var diary: Diary!
-var webview: UIWebView!
-var saveButton: UIButton!
-var deleteButton: UIButton!
-var editButton: UIButton!
-var buttonView: UIView!
-    
-override func viewDidLoad() {
-    super.viewDidLoad()
-    setupUI()
-}
-```
-
-#### 空格
-
-下面的情况应该使用空格
-* 保留字与括号之间应该用空格分开
-* 在参数列表中，逗号后应有一个空格
-* 所有的二元操作符（除了“.”）都应该与操作数之间用空格分隔，但在一元操作符（“++”， “—”）与其操作符之间不需要空格
-* for 语句中的三个表达式应该用空格分隔
-
-下面情况则相反：
-* 左小括号和字符之间不出现空格；同样,右小括号和字符之间也不出现空格。
-
-下面是一个例子：
-```swift
-let mainHTML = Bundle.main.url(forResource: "DiaryTemplate", withExtension: "html")
-var contents: NSString = ""
-
-do {
-    contents = try NSString(contentsOfFile: mainHTML!.path, encoding: String.Encoding.utf8.rawValue)
-} 
-catch let error as NSError{
-    print(error)
-}
-```
-
-## 注释
-代码是供人阅读的，注释是编辑者之间传递思路的重要途径。注释分为两种：代码注释（Implementation Comments）与文档注释（Documentation Comments），不同语言各有其不同的注释语法。注释往往关系到代码的品质，注释应当简洁明了，应尽量使用较为简单常见的英文或中文短句。同时要保证注释的时效性，在修改代码时也应对响应的注释进行修改。
-
-### 代码注释
-
-代码注释用于一段代码的执行说明。
-常有以下三种形式：
-
-**块（block）**
-	常用于文件，方法，数据结构以及算法等方面的描述，块注释应在每个文件的开头或每个代码块前面，也可以用在代码块内，但一定要与代码的缩进保持一致，块注释也应与前面代码有一行空行。
-
-**单行（single-line）**
-	短的说明可以用一行注释并且要与代码缩排一致对齐，并且前面一般要有一行空行。
-  
-**行尾（end-of-line）, （trailing）**
-	很短的注释可以跟代码在同一行上，但必须跟代码有足够的距离， 如果在一块代码中有许多这样的注释， 它们必须用tab键设置来进行缩排对齐。如下例：
-```java
-private String projectKey;			/*项目编号*/
-private String projectname;			/*项目名称*/
-private String peoplenumber;		/*项目组人数*/
-private String startdate;			/*项目开始的时间*/
-private String enddate;				/*结束时间*/
-private String createKey;			/*创建人的ID*/
-private String createDate;			/*创建时间*/
-```
-
-### 文档注释
-
-文档注释常用于文件最前面，有些语言对其有区别于普通注释的语法格式（JAVA），通常用来描述该文件的主要功能，并且包含项目名称，修改时间及人员名单等内容。
-
-下面是一个例子：
-```java
-/**
- * @Title：${enclosing_method}
- * @Description: [功能描述]
- * @Param: ${tags}
- * @Return: ${return_type}
- * @author <a href="mail to: *******@******.com" rel="nofollow">作者</a>
- * @CreateDate: ${date} ${time}</p> 
- * @update: [序号][日期YYYY-MM-DD] [更改人姓名][变更描述]     
- */
-```
-
-## 内部命名
-
-规范的命名可以让程序更易懂，更易读。并能够提供它的功能信息等，比如它是否是一个常量，包名，或类等等都将有助于理解程序。
-下表为一些较为常用的例子：
-
-| 标识符类型 | 命名规则 | 例子 |
-| ---- | ------ | ------ |
-|  变量 | 采用 [LowerCamelCase][1]（小驼峰命名法）。| `String projectKey;` |
-|  常量 | 全部为大写的字符，并且用下划线分隔 | `let NUMBER` |
-|  方法 | 采用 [LowerCamelCase][1]。| `getPuserName();` |
----
-另外，请注意以下规则：
-- 不推荐使用令人费解的单个字符作为变量名称，一些临时的变量可以除外。
-- 杜绝完全不规范的缩写,避免望文不知义。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `AbsClass` （AbstractClass）
-- 严禁使用拼音与英文混合的方式,更不允许直接使用中文的方式。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `getPingJunFenByName()` 
-
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> `getAverangeByName()`
-
-- 变量名不应该以下划线`_`或美元符号`$`打头（尽管它们也是合法的）。
-- 具体语言的命名依照习惯即可，如在 Java 语言的类命名时，推荐使用 [UpperCamelCase][3]（帕斯卡命名法）
->
-## 参考文献
-
-1. [代码风格][2]
-2. [阿里巴巴Java开发手册v1.2.0.pdf][4]（Download Link）
-3. [PROGRAM LAYOUT - THE ART OF MAKING PROGRAMS READABLE][5]
-
-## 相关信息
-- 执笔：高建、王雨阳
-- 审核：
-- 最后修改于：2018 年 8 月 20 日
-- 即日生效
-
-[1]: https://zh.wikipedia.org/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%91%BD%E5%90%8D%E6%B3%95
-[2]:
-https://zh.wikipedia.org/wiki/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC
-[3]:
-https://zh.wikipedia.org/wiki/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%91%BD%E5%90%8D%E6%B3%95
-[4]:
-http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/阿里巴巴Java开发手册v1.2.0.pdf
-[5]:
-http://www.ibiblio.org/pub/languages/fortran/ch1-6.html
+即日起生效
