@@ -130,7 +130,7 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 1998-8-1
 
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 2018-08-01
-- 书写时、分、秒等时刻时，应该使用阿拉伯数字,使用24小时制。
+- 书写时、分、秒等时刻时，应该使用阿拉伯数字，使用24小时制。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 下午七点五十分
 
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 19 点 50 分
@@ -154,7 +154,7 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 - 不使用不地道的缩写。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 熟悉运用 Js、H5 的前端工作者。
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 熟悉运用 JavaScript、HTML5 的前段工作者。
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 熟悉运用 JavaScript、HTML5 的前端工作者。
 - 在文档第一次使用一个缩写时应当用某种方式告知读者其含义，极广泛使用的缩写和型号除外。
 
 ## 授权协议
