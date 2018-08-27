@@ -167,20 +167,13 @@ He/She should be responsible for:
 
 - Meeting attendence
 
-
-
 - - - -
-
-Orginated from [RED-Medis-Organize-Form-cmn][1]
-Translated by Eric Tam and Simon Leung
-Latest edit: 20 Aug, 2018
-The regulations come into force as of today.
-
-
-[1]: 
-<https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md>
-=======
-- Originated from [RED-Medis-Organize-Form-cmn](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
-- Translated by Eric Tam, Simon Leung
+## Related Information
+- Orginated from [RED-Medis-Organize-Form-cmn][1]
+- Translated by Eric Tam and Simon Leung
 - Latest edit: 27 Aug, 2018
 - The regulations come into force as of today.
+
+
+
+[1]: https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md
