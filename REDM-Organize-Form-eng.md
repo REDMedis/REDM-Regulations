@@ -1,10 +1,10 @@
-# RED-Medis-Organize-Form-eng
+# RED Medis Organize Form
 
-## 1 Organizational Form
+## 1 Organizational Stucture
 
 ### 1.1 Overview
 
-RED Medis is a stuio intimately motivated by normative and creativity，applying Tree group structure as our basic organizational shape. We establish the CORE to hold responsibles for management and decisions of important affairs, and numerous Departments, sub-Departments or Temporary Group that affiliated to the CORE or their parent department.
+RED Medis is a studio intimately motivated by normative and creativity，applying Tree group structure as our basic organizational shape. We establish the CORE to hold responsibles for management and decisions of important affairs, and numerous Departments, sub-Departments or Temporary Group that affiliated to the CORE or their parent department.
 
 ### 1.2 Internal Form
 
