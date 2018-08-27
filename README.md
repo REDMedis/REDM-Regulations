@@ -4,10 +4,10 @@
 <img src='https://github.com/REDMedis/REDM-Resources/blob/master/Logo-Title-c/LTcw/REDM-LTcw-288ppi.png' />
 <br/><br/><br/><br/>
 </div>
-The repository states the organization of the Digital Scalpel Studio (DSS) and some normalization rules.
+The repository states the organization of the RED Medis and some normalization rules.
 
 ## Catalogue
-- [RED Medis 章程](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Articles.md)
+- [RED Medis 章程](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Articles-cmn.md)
 - [RED Medis 组织形式](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-cmn.md)
 - [RED Medis Organize Form](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-eng.md)
 - [RED Medis 文档规范](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Format-Manual-cmn.md)
