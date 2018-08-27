@@ -1,4 +1,4 @@
-# DSS-写作规范
+# RED Medis-写作规范
 
 ## 初衷
 每个人都有着不同的书写和排版习惯，为使所有文档的风格一致，增强文可读性，我们对于文档写作制定了一些规范化要求。这些规则并非都是绝对的，也不暗示这些规则比其他方式更好，他们都将在一定的弹性下被使用。
@@ -8,7 +8,7 @@
 
 ## 一般
 ### Markdown
-DSS 的所有文档都使用 **Markdown** 撰写。
+RED Medis 的所有文档都使用 **Markdown** 撰写。
 
 ### i18n
 开源与分享是我们的初衷，为便利更多人的阅读、理解，我们所有的文档都将实现  [i18n](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96)（Internationalization）。我们将撰写简体中文的文档并提供对应的英文翻译版本，同时注意以下规则：
@@ -26,8 +26,8 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 - “语种代号”使用 [ISO 639-3](https://zh.wikipedia.org/wiki/ISO_639-3) 标准，简体中文文档使用 `cmn-Hans`，英文文档使用 `eng`。
 - 文档统一以 `.md` 格式保存。
 
-例如本文档属于 DSS 的简体中文格式手册，命名为：
-> DSS-Format-Manual-cmn.md
+例如本文档属于 RED Medis 的简体中文格式手册，命名为：
+> RED Medis-Format-Manual-cmn.md
 
 属于项目“Project”的英文策划书，命名为：
 > Project-Proposal-eng.md
@@ -46,9 +46,9 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 - 杜绝自我引用或重定向连回条目页面本身
 - 不要为了突显特定文字或想法而创建链接，链接应该用来帮助阐明链接文字，而非强调文字。
 - 在文章内存在的词语或短语上创建链接，不要说“请点击这里”。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看DSS组织形式，[请点击这里](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看RED Medis组织形式，[请点击这里](https://github.com/RED MedisOFFICIAL/RED Medis-Regulations/blob/master/RED Medis-Organize-Form-cmn.md)
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[DSS组织形式](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[RED Medis组织形式](https://github.com/RED MedisOFFICIAL/RED Medis-Regulations/blob/master/RED Medis-Organize-Form-cmn.md)
 
 ### 语言表述
 文档多以事实陈述和提供指导意见为主，注重客观性，在写作时应注重以下规则：
