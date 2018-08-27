@@ -27,7 +27,7 @@ RED Medis 的所有文档都使用 **Markdown** 撰写。
 - 文档统一以 `.md` 格式保存。
 
 例如本文档属于 RED Medis 的简体中文格式手册，命名为：
-> RED Medis-Format-Manual-cmn.md
+> RED-Medis-Format-Manual-cmn.md
 
 属于项目“Project”的英文策划书，命名为：
 > Project-Proposal-eng.md
@@ -46,9 +46,9 @@ RED Medis 的所有文档都使用 **Markdown** 撰写。
 - 杜绝自我引用或重定向连回条目页面本身
 - 不要为了突显特定文字或想法而创建链接，链接应该用来帮助阐明链接文字，而非强调文字。
 - 在文章内存在的词语或短语上创建链接，不要说“请点击这里”。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看RED Medis组织形式，[请点击这里](https://github.com/RED MedisOFFICIAL/RED Medis-Regulations/blob/master/RED Medis-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看 RED Medis 组织形式，[请点击这里](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[RED Medis组织形式](https://github.com/RED MedisOFFICIAL/RED Medis-Regulations/blob/master/RED Medis-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[ RED Medis 组织形式](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
 
 ### 语言表述
 文档多以事实陈述和提供指导意见为主，注重客观性，在写作时应注重以下规则：
@@ -157,11 +157,8 @@ RED Medis 的所有文档都使用 **Markdown** 撰写。
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 熟悉运用 JavaScript、HTML5 的前端工作者。
 - 在文档第一次使用一个缩写时应当用某种方式告知读者其含义，极广泛使用的缩写和型号除外。
 
-## 授权协议
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
-
 ## 相关信息
 - 执笔：王雨阳、梁正弘
 - 审核：梁正弘
-- 最后修改于：2018 年 8 月 24 日
+- 最后修改于：2018 年 8 月 27 日
 - 即日生效
