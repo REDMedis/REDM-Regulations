@@ -1,7 +1,7 @@
 # RED Medis Studio Regulations
 <div align='center'>
 <br/><br/><br/>
-<img src='https://github.com/REDMedis/DSS-Resources/blob/master/Logo-Title-c/LTcw/REDM-LTcw-288ppi.png' widht=50 alt='dss-full logo' />
+<img src='https://github.com/REDMedis/REDM-Resources/blob/master/Logo-Title-c/LTcw/REDM-LTcw-288ppi.png' />
 <br/><br/><br/><br/>
 </div>
 The repository states the organization of the Digital Scalpel Studio (DSS) and some normalization rules.
