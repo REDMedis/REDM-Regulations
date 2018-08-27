@@ -1,8 +1,8 @@
-# DSS Organize Form-cmn
+# RED Medis Organize Form
 
 ## 1 组织形式
 ### 1.1 概况
-DSS (Digital Scalpel Studio) 是一个强调规范与创意共同驱动的工作室，采用关系树形组织形式。工作室以负责重要事务处理和决策的核心组 (CORE) 为根，发散出各个部门 (Department)，部门下可设立子部门 (sub-Department)，或者临时小组(Temporary Group)。
+RED Medis 是一个强调规范与创意共同驱动的工作室，采用关系树形组织形式。工作室以负责重要事务处理和决策的核心组 (CORE) 为根，发散出各个部门 (Department)，部门下可设立子部门 (sub-Department)，或者临时小组(Temporary Group)。
 ### 1.2 内部形态
 * 核心组：工作室的管理者组和决策组，负责工作室的内部事务处理、部门管理、成员组织调动、项目审核监督、资源掌控等。
 * 部门：为针对一类特定工作而设立，在工作室中稳定存在并能在其领域中做出持续贡献的团队，设有一名部门负责人，部门负责人必须存在于所有直属子部门中。
