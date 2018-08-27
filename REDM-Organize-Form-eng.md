@@ -178,7 +178,7 @@ The regulations come into force as of today.
 
 
 [1]: 
-https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md
+<https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md>
 =======
 - Originated from [RED-Medis-Organize-Form-cmn](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
 - Translated by Eric Tam, Simon Leung
