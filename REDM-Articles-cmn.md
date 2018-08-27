@@ -44,7 +44,7 @@ RED Medis 工作室于 2018年 8 月成立，是一个自发的，致力于数�
 - MEDIA（影音部）
 
 ### 工作模式
-工作室围绕“**项目**”（Project）来展开工作，任何成员都可以发起一个项目并成为**项目负责人**。一个项目应有明确的工作方向、流程规划与成果构想，详情见[立项流程] ([REDM-Regulations/REDM-Project-Process-cmn.md at master · REDMedis/REDM-Regulations · GitHub](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Project-Process-cmn.md))。
+工作室围绕“**项目**”（Project）来展开工作，任何成员都可以发起一个项目并成为**项目负责人**。一个项目应有明确的工作方向、流程规划与成果构想，详情见[立项流程](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Project-Process-cmn.md))。
 
 ### 资金
 1. 核心组提供
