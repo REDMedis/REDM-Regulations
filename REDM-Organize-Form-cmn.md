@@ -1,6 +1,6 @@
-# RED Medis Organize Form
+# RED Medis 组织形式
 
-## 1 组织形式
+## 组织结构
 ### 1.1 概况
 RED Medis 是一个强调规范与创意共同驱动的工作室，采用关系树形组织形式。工作室以负责重要事务处理和决策的核心组 (CORE) 为根，发散出各个部门 (Department)，部门下可设立子部门 (sub-Department)，或者临时小组(Temporary Group)。
 ### 1.2 内部形态
