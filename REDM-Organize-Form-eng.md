@@ -169,7 +169,7 @@ He/She should be responsible for:
 
 - - - -
 ## Related Information
-- Orginated from [RED-Medis-Organize-Form-cmn][1]
+- Orginated from [REDM-Organize-Form-cmn.md][1]
 - Translated by Eric Tam and Simon Leung
 - Latest edit: 27 Aug, 2018
 - The regulations come into force as of today.
