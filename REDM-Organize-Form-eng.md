@@ -1,10 +1,10 @@
-﻿# DSS-Organize-Form-eng
+# RED-Medis-Organize-Form-eng
 
 ## 1 Organizational Form
 
 ### 1.1 Overview
 
-DSS (Digital Scalpel Studio) is a stuio intimately motivated by normative and creativity，applying Tree group structure as our basic organizational shape. We establish the CORE to hold responsibles for management and decisions of important affairs, and numerous Departments, sub-Departments or Temporary Group that affiliated to the CORE or their parent department.
+RED Medis is a stuio intimately motivated by normative and creativity，applying Tree group structure as our basic organizational shape. We establish the CORE to hold responsibles for management and decisions of important affairs, and numerous Departments, sub-Departments or Temporary Group that affiliated to the CORE or their parent department.
 
 ### 1.2 Internal Form
 
@@ -170,19 +170,17 @@ He/She should be responsible for:
 
 
 - - - -
-<<<<<<< HEAD:DSS-Organize Form-eng.md
 
-Orginated from [DSS-Organize-Form-cmn][1]
+Orginated from [RED-Medis-Organize-Form-cmn][1]
 Translated by Eric Tam and Simon Leung
 Latest edit: 20 Aug, 2018
-
 The regulations come into force as of today.
 
 
-[1]: https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md
+[1]: https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md
 =======
-- Originated from [DSS-Organize-Form-cmn](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+- Originated from [RED-Medis-Organize-Form-cmn](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
 - Translated by Eric Tam, Simon Leung
-- Latest edit: 20 Aug, 2018
+- Latest edit: 27 Aug, 2018
 - The regulations come into force as of today.
->>>>>>> c5f2cc89ba6ea22101200cad8c0c2a123f49901f:DSS-Organize-Form-eng.md
+>>>>>>> c5f2cc89ba6ea22101200cad8c0c2a123f49901f:RED-Medis-Organize-Form-eng.md
