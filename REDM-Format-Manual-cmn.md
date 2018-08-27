@@ -1,4 +1,4 @@
-# DSS-写作规范
+# RED Medis 文档规范
 
 ## 初衷
 每个人都有着不同的书写和排版习惯，为使所有文档的风格一致，增强文可读性，我们对于文档写作制定了一些规范化要求。这些规则并非都是绝对的，也不暗示这些规则比其他方式更好，他们都将在一定的弹性下被使用。
@@ -8,7 +8,7 @@
 
 ## 一般
 ### Markdown
-DSS 的所有文档都使用 **Markdown** 撰写。
+RED Medis 的所有文档都使用 **Markdown** 撰写。
 
 ### i18n
 开源与分享是我们的初衷，为便利更多人的阅读、理解，我们所有的文档都将实现  [i18n](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96)（Internationalization）。我们将撰写简体中文的文档并提供对应的英文翻译版本，同时注意以下规则：
@@ -26,8 +26,8 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 - “语种代号”使用 [ISO 639-3](https://zh.wikipedia.org/wiki/ISO_639-3) 标准，简体中文文档使用 `cmn-Hans`，英文文档使用 `eng`。
 - 文档统一以 `.md` 格式保存。
 
-例如本文档属于 DSS 的简体中文格式手册，命名为：
-> DSS-Format-Manual-cmn.md
+例如本文档属于 RED Medis 的简体中文格式手册，命名为：
+> RED-Medis-Format-Manual-cmn.md
 
 属于项目“Project”的英文策划书，命名为：
 > Project-Proposal-eng.md
@@ -45,10 +45,12 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 - 大部分中文读者均能理解的常见中文字词，不需要创建链接
 - 杜绝自我引用或重定向连回条目页面本身
 - 不要为了突显特定文字或想法而创建链接，链接应该用来帮助阐明链接文字，而非强调文字。
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 海水应当是[蓝色](https://baike.baidu.com/item/%E8%93%9D%E8%89%B2/35972?fr=aladdin)的。
+- 为文档添加链接后，请自行测试链接的可用性，避免出现废链
 - 在文章内存在的词语或短语上创建链接，不要说“请点击这里”。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看DSS组织形式，[请点击这里](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看 RED Medis 组织形式，[请点击这里](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-cmn.md)
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[DSS组织形式](https://github.com/DSSOFFICIAL/DSS-Regulations/blob/master/DSS-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[ RED Medis 组织形式](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-cmn.md)
 
 ### 语言表述
 文档多以事实陈述和提供指导意见为主，注重客观性，在写作时应注重以下规则：
@@ -130,7 +132,7 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 1998-8-1
 
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 2018-08-01
-- 书写时、分、秒等时刻时，应该使用阿拉伯数字,使用24小时制。
+- 书写时、分、秒等时刻时，应该使用阿拉伯数字，使用24小时制。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 下午七点五十分
 
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 19 点 50 分
@@ -154,14 +156,11 @@ DSS 的所有文档都使用 **Markdown** 撰写。
 - 不使用不地道的缩写。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 熟悉运用 Js、H5 的前端工作者。
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 熟悉运用 JavaScript、HTML5 的前段工作者。
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 熟悉运用 JavaScript、HTML5 的前端工作者。
 - 在文档第一次使用一个缩写时应当用某种方式告知读者其含义，极广泛使用的缩写和型号除外。
-
-## 授权协议
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 ## 相关信息
 - 执笔：王雨阳、梁正弘
 - 审核：梁正弘
-- 最后修改于：2018 年 8 月 20 日
+- 最后修改于：2018 年 8 月 27 日
 - 即日生效
