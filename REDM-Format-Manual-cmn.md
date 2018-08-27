@@ -45,10 +45,12 @@ RED Medis 的所有文档都使用 **Markdown** 撰写。
 - 大部分中文读者均能理解的常见中文字词，不需要创建链接
 - 杜绝自我引用或重定向连回条目页面本身
 - 不要为了突显特定文字或想法而创建链接，链接应该用来帮助阐明链接文字，而非强调文字。
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 海水应当是[蓝色](https://baike.baidu.com/item/%E8%93%9D%E8%89%B2/35972?fr=aladdin)的。
+- 为文档添加链接后，请自行测试链接的可用性，避免出现废链
 - 在文章内存在的词语或短语上创建链接，不要说“请点击这里”。
-> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看 RED Medis 组织形式，[请点击这里](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> 要查看 RED Medis 组织形式，[请点击这里](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-cmn.md)
 
-> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[ RED Medis 组织形式](https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md)
+> <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> 查看[ RED Medis 组织形式](https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-cmn.md)
 
 ### 语言表述
 文档多以事实陈述和提供指导意见为主，注重客观性，在写作时应注重以下规则：
