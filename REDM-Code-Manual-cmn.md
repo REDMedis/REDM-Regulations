@@ -1,8 +1,8 @@
-# DSS-代码规范
+# RED Medis-代码规范
 
 ## 初衷
 
-写出简洁规范的代码对于开发者而言非常重要，它体现了开发者自己的专业性和技术水平，能够赢得别人的称赞，为秉持 DSS 在项目开发上注重交流，开源的核心精神，同样为了更好的维护代码库的稳定与和谐，对团队开发中的代码书写作出以下规范。本文档并非指出其他方式是错误的，也不暗示这些规则比其他方式更好。
+写出简洁规范的代码对于开发者而言非常重要，它体现了开发者自己的专业性和技术水平，能够赢得别人的称赞，为秉持 RED Medis 在项目开发上注重交流，开源的核心精神，同样为了更好的维护代码库的稳定与和谐，对团队开发中的代码书写作出以下规范。本文档并非指出其他方式是错误的，也不暗示这些规则比其他方式更好。
 ## 文件
 ### 文件命名
 文件名应为名词或名词的混合体，且各个名词的首字母应大写，相似功能的文件名应类似，在存储时也应同属于一个文件夹内。
@@ -155,7 +155,7 @@ catch let error as NSError{
 ```java
 private String projectKey;			/*项目编号*/
 private String projectname;			/*项目名称*/
-private String peoplenumber;		/*项目组人数*/
+private String peoplenumber;			/*项目组人数*/
 private String startdate;			/*项目开始的时间*/
 private String enddate;				/*结束时间*/
 private String createKey;			/*创建人的ID*/
