@@ -1,4 +1,4 @@
-# RED Medis-代码规范
+# RED Medis 代码规范
 
 ## 初衷
 
