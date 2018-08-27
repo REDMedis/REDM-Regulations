@@ -176,4 +176,4 @@ He/She should be responsible for:
 
 
 
-[1]: https://github.com/REDMedis/RED-Medis-Regulations/blob/master/RED-Medis-Organize-Form-cmn.md
+[1]: https://github.com/REDMedis/REDM-Regulations/blob/master/REDM-Organize-Form-cmn.md
