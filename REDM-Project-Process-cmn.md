@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # RED Medis 立项流程
 
-RED Medis 的一切工作都将围绕项目开展，本文将详细描述在 RED Medis 内设立新项目的流程。
+RED Medis 的一切工作都将围绕项目开展，本文将详细描述在 RED Medis 内设立新项目的流程以及相关事宜。
 
 ## 项目的设立
 
@@ -65,15 +64,3 @@ RED Medis 的一切工作都将围绕项目开展，本文将详细描述在 RED
 
 ## 参考
 本文是在 [UIC HCC 立项流程](https://github.com/UICHCC/HCC-Regulations/blob/master/Groups-Setup-cmn-Hans.md) 依照 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 发布的前提下适应本工作室的特点修订而成。
-=======
-﻿# RED Medis 立项管理流程试行制度
-> 该文档还在编辑中，给你带来不便十分抱歉。
-
-## 立项管理流程
-## 立项流程描述
-## 项目管理制度
-
-## 附件：
-### 立项报告
-### 填写说明
->>>>>>> 08b97f3586672a1c5383a024a8e4bfa8130e2f67
