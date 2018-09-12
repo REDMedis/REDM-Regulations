@@ -75,7 +75,7 @@ while (x == y) {
 
 使用空行来将一段逻辑相关的代码与其他代码分开从而提高代码的可读性。
 
-下面的情况应用两行空行
+下面的情况应用两行空行：
 * 程序文件中两部分之间
 * 在两个功能不同的代码块（如方法与接口）之间
 
@@ -91,7 +91,7 @@ class DiaryLabel: UILabel {
 }
 ```
 
-下面的情况应用一行空行
+下面的情况应用一行空行：
 * 两功能相似的代码块（如两方法）之间
 * 在变量定义与第一个语句之间
 * 在一个块注释或单行注释之间
@@ -114,7 +114,7 @@ override func viewDidLoad() {
 
 #### 空格
 
-下面的情况应该使用空格
+下面的情况应该使用空格：
 * 保留字与括号之间应该用空格分开
 * 在参数列表中，逗号后应有一个空格
 * 所有的二元操作符（除了“.”）都应该与操作数之间用空格分隔，但在一元操作符（“++”， “—”）与其操作符之间不需要空格
@@ -164,7 +164,7 @@ private String createDate;			/*创建时间*/
 
 ### 文档注释
 
-文档注释常用于文件最前面，有些语言对其有区别于普通注释的语法格式（JAVA），通常用来描述该文件的主要功能，并且包含项目名称，修改时间及人员名单等内容。
+文档注释常用于文件最前面，有些语言对其有区别于普通注释的语法格式（Java），通常用来描述该文件的主要功能，并且包含项目名称，修改时间及人员名单等内容。
 
 下面是一个例子：
 ```java
@@ -186,20 +186,20 @@ private String createDate;			/*创建时间*/
 
 | 标识符类型 | 命名规则 | 例子 |
 | ---- | ------ | ------ |
-|  变量 | 采用 [LowerCamelCase][1]（小驼峰命名法）。| `String projectKey;` |
+|  变量 | 采用 [LowerCamelCase][1]（小驼峰命名法）| `String projectKey;` |
 |  常量 | 全部为大写的字符，并且用下划线分隔 | `let NUMBER` |
-|  方法 | 采用 [LowerCamelCase][1]。| `getPuserName();` |
+|  方法 | 采用 [LowerCamelCase][1]| `getPuserName();` |
 ---
 另外，请注意以下规则：
 - 不推荐使用令人费解的单个字符作为变量名称，一些临时的变量可以除外。
 - 杜绝完全不规范的缩写,避免望文不知义。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `AbsClass` （AbstractClass）
-- 严禁使用拼音与英文混合的方式,更不允许直接使用中文的方式。
+- 严禁使用拼音与英文混合的方式，更不允许直接使用中文的方式来命名。
 > <img src="https://png.icons8.com/windows/100/e74c3c/multiply.png" widht="15px" height="15px"> `getPingJunFenByName()` 
 
 > <img src="https://png.icons8.com/color/100/000000/checkmark.png" widht="15px" height="15px"> `getAverangeByName()`
 
-- 变量名不应该以下划线`_`或美元符号`$`打头（尽管它们也是合法的）。
+- 变量名不应该以下划线`_`或美元符号`$`打头（尽管它们是合法的）。
 - 具体语言的命名依照习惯即可，如在 Java 语言的类命名时，推荐使用 [UpperCamelCase][3]（帕斯卡命名法）
 >
 ## 参考文献
@@ -210,7 +210,7 @@ private String createDate;			/*创建时间*/
 
 ## 相关信息
 - 执笔：高建、王雨阳
-- 审核：
+- 审核：梁正弘
 - 最后修改于：2018 年 8 月 20 日
 - 即日生效
 
